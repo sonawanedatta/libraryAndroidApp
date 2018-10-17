@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Library Management</string>
+    <string name="hint_branch_group">Branch</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_gender">I am</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="btn_sign_up">Register !!</string>
+    <string name="err_msg_name">Please enter a Name</string>
+    <string name="err_msg_required">Valid Input Required</string>
+    <string name="err_msg_email">Please enter a Valid Email</string>
+    <string name="err_msg_password">Enter a Password</string>
+    <string name="err_msg_dob">Enter a valid D.O.B</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_link_signup">Don\'t have an account yet Register !!</string>
+    <string name="btn_link_login">Already have an account Login !!</string>
+    <string name="hint_year">Year</string>
+    <string name="hint_mobile">Enter Mobile Number</string>
+    <string name="addinfo">Search</string>
+    <string name="submit">Submit</string>
+    <string name="addinfotitle">Details</string>
+    <string name="book_name">Book Name</string>
+    <string name="title_splash">Library Management System</string>
+
+    <string-array name="branch_arrays">
+        <item>Choose</item>
+        <item>Computer</item>
+        <item>Mechanical</item>
+        <item>Civil</item>
+        <item>Electrical</item>
+    </string-array>
+
+    <string-array name="year_arrays">
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>Last</item>
+    </string-array>
+</resources>
